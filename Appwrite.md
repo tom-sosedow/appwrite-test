@@ -27,7 +27,11 @@ Quellen
     <li>Firebase</li>
     <li>Supabase</li>
     <li>Pocketbase</li>
+    Vielleicht eine Tabelle wo das alles verglichen wird.
 <h1>Projekt</h1>
 Irgendwas schnelles in JavaScript basteln
+Ideen: Kostenlose Wetterapi abzapfen (zB. https://open-meteo.com/)
+    - Cloudfunktion regelmäßig daten ziehen und abspeichern
+    - Frontend zum Anzeigen der Daten (evtl. Realtime)
 <h1>Quellen</h1>
 <a href="https://appwrite.io/">https://appwrite.io/</a>
